@@ -1,3 +1,4 @@
+# testing sparse checkout
 import Settings from 'git-sync';
 import request from 'admin/utils/request';
 import toastr from 'admin/utils/toastr';
